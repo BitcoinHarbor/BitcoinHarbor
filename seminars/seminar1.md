@@ -6,25 +6,38 @@ A total of 60 min to be spent.
 
 ## Socratic Seminar #1 Topics
 
-### 1. [Raspibolt/Minibolt](https://raspibolt.org) (2 min)
+### 1. Lightning Network
 
-One of the best instructionals on building a lighting node from scratch and learning Linux along the way.
+Current
 
-<!-- <iframe src="https://docs.google.com/presentation/d/1-O_OFhRQI3QgNsdn7XZ9XeXNPU4qBVbL88XL5isYats/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
+- [News](https://x.com/walletofsatoshi/status/1727937085741678679)
 
-### 2. [RaspiBlitz](https://raspiblitz.org) (2 min)
+- [Stats](https://www.theblock.co/data/on-chain-metrics/bitcoin/lightning-networks-capacity-daily)
 
-Once you build your node from scratch and you are tired of repeating the process this is an automated script that builds the Raspberry bolt like node.
+Build a Non-Custodial Node
 
-### 3. Bitcoin mining (Brett) (10 min)
+- [RaspiBlitz](https://raspiblitz.org) (2 min)
+
+- [Raspibolt/Minibolt](https://raspibolt.org) (2 min)
+
+- Umbrel
+
+Other LN Wallets
+
+- MyNode
+- BlueWallet (iOS)
+- Muun (iOS)
+- Strike (iOS)
+
+### 2. Bitcoin mining (Brett) (10 min)
 
 What are the economics of Bitcoin mining?
 
-### 4. [Sparrow Wallet](https://sparrowwallet.com) (10 min)
+### 3. [Sparrow Wallet](https://sparrowwallet.com) (10 min)
 
 The best wallet for Bitcoin enthusiasts who care about privacy. We will briefly dive into the technicalities.
 
-### 5. [Border Wallets](https://www.borderwallets.com) (15 min demo)
+### 4. [Border Wallets](https://www.borderwallets.com) (15 min demo)
 
 The new way to store a seed phrase that only requires a file, a pattern, and one word.
 
